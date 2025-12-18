@@ -22,7 +22,7 @@ Demonstrates drawing **colorful shapes** with transformations such as **translat
 ---
 
 ## 📷 Demo / Screenshot
-![Shape Task](photo.png)  
+![Shape Task](Photo.png)  
 
 
 ---
